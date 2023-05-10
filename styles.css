@@ -47,7 +47,7 @@
 .bottom-right{
     height: 140px;
     width: 100px;
-    background-color: white;
+    background-color: yellow;
     border: 5px solid black;
 }
 
@@ -55,3 +55,9 @@
     display: flex;
 }
 
+.bottom-yellow{
+    height: 70px;
+    width: 100px;
+    background-color: white;
+    border: 5px solid black;
+}
